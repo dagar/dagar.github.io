@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/dagar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dagar.ca
+  * I am dagar (https://keybase.io/dagar) on keybase.
+  * I have a public key with fingerprint 5A93 7CF5 5525 464B 758B  7C33 FD3C BA98 017A 69DE
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "5a937cf55525464b758b7c33fd3cba98017a69de",
+            "host": "keybase.io",
+            "key_id": "fd3cba98017a69de",
+            "uid": "2f3c294f733cf832db66285488129c00",
+            "username": "dagar"
+        },
+        "revoke": {
+            "sig_ids": [
+                "826ccc2881e3f892289f7b721f4df8a9a22aa9d6b205b8c95e0434dbb22d17f00f"
+            ]
+        },
+        "service": {
+            "hostname": "dagar.ca",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1411060638,
+    "expire_in": 157680000,
+    "prev": "d44710055620a4d61e4477fac1e59ea41edca868e17cd93d705014a9e1f60e03",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.5
+Comment: https://keybase.io/crypto
+
+yMEZAnicbVK7ihRBFO3xBY4IsxiaFYbDUO9Hu2AiywZmGiyIDvW4NVuudo/dPaPr
+suEimJmJwe4/iCiYKWLiP5gY+BWKVYuCgZUUdercc8693M+Xz1bjjZ+bH16NnqVv
+o68ft1bVnatXjg+Qa8M+qg/QHpxeMTUL6JZdagZUI2ENUz4KIajgkjsltFOesRiY
+d9ZoTJSVJgCaot22LxVZxtkeZqnNWH7MU8jof/ir0w8amaeGR8WYj5rR4KSkWnCt
+CTUe40LsoWvsI8jsYBe2Q4dT1MG63YOSt0+LbNGj+i7SVHrvaS4FFrWhVJuonKIk
+8hC1NZZSa02QjmLhtDcCMGc8OEdpICpiHNG9rJ3t1smfipee/rWeeZsDLbt2aH37
+MKO7w7CsS6Bhf1lYT8DN/9TPXWpCHmYuWEPXp7ZBNclMP6QiSDghWGLJ9BTB02Xq
+YJ4KQyipcT7FBtbFmHNFMBZCUmx5kAQyoKL1BIQBywkEb7XUQJQPhgWFBSbcGiBR
+YsAMlY4eNy2qVY5pF1kyz6yxw6oDdPhp61y1Ma4unD9TtqEaX5z83ZHNo+pk9WCy
+c+vt89c7169NXt54f5PPmlF1Yre/sy+/tu9fao7Z7N3to8mLNz9+Axd6uqs=
+=ehTo
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dagar
+
+==================================================================
+
