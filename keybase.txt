@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/dagar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://dagar.ca
+  * I am dagar (https://keybase.io/dagar) on keybase.
+  * I have a public key ASC2AdarUl_sWaLmEeQBt7PeAsB5Q7H08Cy9cKB8P1Wafgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "011148570071ecf795f05b1f221eea55e65eb66e04b04b393db93109076023b7c23a0a",
+            "host": "keybase.io",
+            "kid": "0120b601d6ab525fec59a2e611e401b7b3de02c07943b1f4f02cbd70a07c3f559a7e0a",
+            "uid": "2f3c294f733cf832db66285488129c00",
+            "username": "dagar"
+        },
+        "service": {
+            "hostname": "dagar.ca",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.23"
+    },
+    "ctime": 1495727766,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1495727756,
+        "hash": "0934676ba892d12118bc1fd5750346a1d560266ef02ad2a94d94fcfb261f974192abb6e5d9e87ec16d9201713eb2f11f50c792769fe44a00d3241704ac8491a4",
+        "seqno": 1110982
+    },
+    "prev": "62305aeee61ff9a8e06a48ff04cbea867de507218ed0621a868ec90b1d32acb1",
+    "seqno": 32,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtgHWq1Jf7Fmi5hHkAbez3gLAeUOx9PAsvXCgfD9Vmn4Kp3BheWxvYWTFAu57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTExNDg1NzAwNzFlY2Y3OTVmMDViMWYyMjFlZWE1NWU2NWViNjZlMDRiMDRiMzkzZGI5MzEwOTA3NjAyM2I3YzIzYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjYwMWQ2YWI1MjVmZWM1OWEyZTYxMWU0MDFiN2IzZGUwMmMwNzk0M2IxZjRmMDJjYmQ3MGEwN2MzZjU1OWE3ZTBhIiwidWlkIjoiMmYzYzI5NGY3MzNjZjgzMmRiNjYyODU0ODgxMjljMDAiLCJ1c2VybmFtZSI6ImRhZ2FyIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJkYWdhci5jYSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjMifSwiY3RpbWUiOjE0OTU3Mjc3NjYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5NTcyNzc1NiwiaGFzaCI6IjA5MzQ2NzZiYTg5MmQxMjExOGJjMWZkNTc1MDM0NmExZDU2MDI2NmVmMDJhZDJhOTRkOTRmY2ZiMjYxZjk3NDE5MmFiYjZlNWQ5ZTg3ZWMxNmQ5MjAxNzEzZWIyZjExZjUwYzc5Mjc2OWZlNDRhMDBkMzI0MTcwNGFjODQ5MWE0Iiwic2Vxbm8iOjExMTA5ODJ9LCJwcmV2IjoiNjIzMDVhZWVlNjFmZjlhOGUwNmE0OGZmMDRjYmVhODY3ZGU1MDcyMThlZDA2MjFhODY4ZWM5MGIxZDMyYWNiMSIsInNlcW5vIjozMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDCFVlq3UKmgsHaoSrPfEkLBAhgtHAX6xdmHVbuWmSnzhnWjtw4jOU8j95R4iVl+SdiRfC75rHQT/SpwZF98DcGqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg0yRoWTEqCaDx3QZ5tr7M4LURNXQN/QY/5lvgg9OcUNGjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dagar
+
+==================================================================
